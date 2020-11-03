@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi, my name is Szymon.
 
-<!--
-**Monsy99/Monsy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Polish 21 years old student of physics. Currently I'm learning technologies asociated with React and I would love to start my job as a Junior Web / Front-End Developer. Have a look at what I do ;)
+<br/>
 
-Here are some ideas to get you started:
+# I’m currently working on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Movies Browser(currently v1.0):
+
+LIVE: [https://wknott.github.io/movies-browser](https://wknott.github.io/movies-browser)
+
+CODE: [https://github.com/wknott/movies-browser](https://github.com/wknott/movies-browser)
+
+## To Do List React:
+
+LIVE: [https://monsy99.github.io/todo-react/](https://monsy99.github.io/todo-react/)
+
+CODE: [https://github.com/Monsy99/todo-react](https://github.com/Monsy99/todo-react)
+
+# I’m looking to collaborate on ...
+
+Any react projects that involve using api's 
+<br/>
+
+# Technologies used in my projects:
+
+![HTML](./img/html.png)&nbsp;&nbsp;
+![CSS](./img/css.png)&nbsp;&nbsp;
+![git](./img/git.png)&nbsp;&nbsp;
+![JavaScript](./img/javascript.png)&nbsp;&nbsp;
+![React](./img/react.png)&nbsp;&nbsp;
+![Redux](./img/redux.png)&nbsp;&nbsp;
+
+# Reach me at:
+## Email: szymon.marczukk@gmail.com
+## Contact form:
