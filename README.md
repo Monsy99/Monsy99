@@ -31,6 +31,8 @@ Any react projects that involve using api's
 ![React](./img/react.png)&nbsp;&nbsp;
 ![Redux](./img/redux.png)&nbsp;&nbsp;
 
+[![Szymon's github stats](https://github-readme-stats.vercel.app/api?username=Monsy99&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 # Reach me at:
 ## Email: szymon.marczukk@gmail.com
 ## Contact form:
