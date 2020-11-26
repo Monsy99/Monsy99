@@ -4,6 +4,11 @@
 <br/>
 
 # I’m currently working on ...
+## Chat App (React + Firebase):
+
+LIVE: [https://monsy99.github.io/react-firebase-chat-app/](https://monsy99.github.io/react-firebase-chat-app/)
+
+CODE: [https://github.com/Monsy99/react-firebase-chat-app](https://github.com/Monsy99/react-firebase-chat-app)
 
 ## Movies Browser(currently v1.0):
 
