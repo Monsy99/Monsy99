@@ -18,9 +18,9 @@ CODE: [https://github.com/wknott/movies-browser](https://github.com/wknott/movie
 
 ## To Do List React:
 
-LIVE: [https://monsy99.github.io/todo-react/](https://monsy99.github.io/todo-react/)
+LIVE: [https://monsy99.github.io/todo-react-redux/](https://monsy99.github.io/todo-react/)
 
-CODE: [https://github.com/Monsy99/todo-react](https://github.com/Monsy99/todo-react)
+CODE: [https://github.com/Monsy99/todo-react-redux](https://github.com/Monsy99/todo-react)
 
 # I’m looking to collaborate on ...
 
