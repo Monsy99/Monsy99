@@ -16,11 +16,11 @@ LIVE: [https://wknott.github.io/movies-browser](https://wknott.github.io/movies-
 
 CODE: [https://github.com/wknott/movies-browser](https://github.com/wknott/movies-browser)
 
-## To Do List React:
+## My personal homepage:
 
-LIVE: [https://monsy99.github.io/todo-react-redux/](https://monsy99.github.io/todo-react-redux)
+LIVE: [https://monsy99.github.io/](https://monsy99.github.io/)
 
-CODE: [https://github.com/Monsy99/todo-react-redux](https://github.com/Monsy99/todo-react-redux)
+CODE: [https://github.com/Monsy99/monsy99.github.io/](https://github.com/Monsy99/monsy99.github.io/)
 
 # I’m looking to collaborate on ...
 
