@@ -1,8 +1,9 @@
 # Hi, my name is Szymon.
 
 ### I'm a Polish 21 years old student of physics. Currently, I'm learning technologies associated with React and I would love to start my job as a Junior Web / Front-End Developer. Have a look at what I do ;)
-<br/>
+
 # I’m currently working on ...
+
 ## Chat App (React + Firebase):
 
 LIVE: [https://monsy99.github.io/react-firebase-chat-app/](https://monsy99.github.io/react-firebase-chat-app/)
