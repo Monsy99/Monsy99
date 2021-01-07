@@ -4,12 +4,6 @@
 
 # I’m currently working on ...
 
-## Chat App (React + Firebase):
-
-LIVE: [https://monsy99.github.io/react-firebase-chat-app/](https://monsy99.github.io/react-firebase-chat-app/)
-
-CODE: [https://github.com/Monsy99/react-firebase-chat-app](https://github.com/Monsy99/react-firebase-chat-app)
-
 ## Movies Browser(currently v1.0):
 
 LIVE: [https://wknott.github.io/movies-browser](https://wknott.github.io/movies-browser)
@@ -21,6 +15,12 @@ CODE: [https://github.com/wknott/movies-browser](https://github.com/wknott/movie
 LIVE: [https://monsy99.github.io/](https://monsy99.github.io/)
 
 CODE: [https://github.com/Monsy99/monsy99.github.io/](https://github.com/Monsy99/monsy99.github.io/)
+
+## Chat App (React + Firebase):
+
+LIVE: [https://monsy99.github.io/react-firebase-chat-app/](https://monsy99.github.io/react-firebase-chat-app/)
+
+CODE: [https://github.com/Monsy99/react-firebase-chat-app](https://github.com/Monsy99/react-firebase-chat-app)
 
 # I’m looking to collaborate on ...
 
