@@ -25,12 +25,12 @@ CODE: [https://github.com/Monsy99/react-firebase-chat-app](https://github.com/Mo
 
 # Technologies used in my projects:
 
-![HTML](./img/html.png)&nbsp;&nbsp;
-![CSS](./img/css.png)&nbsp;&nbsp;
-![git](./img/git.png)&nbsp;&nbsp;
-![JavaScript](./img/javascript.png)&nbsp;&nbsp;
-![React](./img/react.png)&nbsp;&nbsp;
-![Redux](./img/redux.png)&nbsp;&nbsp;
+[![](./img/html.png)](#)&nbsp;&nbsp;
+[![](./img/css.png)](#)&nbsp;&nbsp;
+[![git](./img/git.png)](#)&nbsp;&nbsp;
+[![JavaScript](./img/javascript.png)](#)&nbsp;&nbsp;
+[![React](./img/react.png)](#)&nbsp;&nbsp;
+[![Redux](./img/redux.png)](#)&nbsp;&nbsp;
 
 [![Szymon's github stats](https://github-readme-stats.vercel.app/api?username=Monsy99&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
