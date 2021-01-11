@@ -1,6 +1,6 @@
 # Hi, my name is Szymon.
 
-### I'm a Polish 21 years old student of physics. Currently, I'm learning technologies associated with React and I would love to start my job as a Junior Web / Front-End Developer. Have a look at what I do ;)
+### I'm a Polish 21 years old student of physics. Currently, I'm learning technologies associated with React. Have a look at what I do ;)
 
 # I’m currently working on ...
 
