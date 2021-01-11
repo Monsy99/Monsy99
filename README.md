@@ -4,28 +4,24 @@
 
 # I’m currently working on ...
 
-## Movies Browser(currently v1.0):
+### Movies Browser(currently v1.0):
 
 LIVE: [https://wknott.github.io/movies-browser](https://wknott.github.io/movies-browser)
 
 CODE: [https://github.com/wknott/movies-browser](https://github.com/wknott/movies-browser)
 
-## My personal homepage:
+### My personal homepage:
 
 LIVE: [https://monsy99.github.io/](https://monsy99.github.io/)
 
 CODE: [https://github.com/Monsy99/monsy99.github.io/](https://github.com/Monsy99/monsy99.github.io/)
 
-## Chat App (React + Firebase):
+### Chat App (React + Firebase):
 
 LIVE: [https://monsy99.github.io/react-firebase-chat-app/](https://monsy99.github.io/react-firebase-chat-app/)
 
 CODE: [https://github.com/Monsy99/react-firebase-chat-app](https://github.com/Monsy99/react-firebase-chat-app)
 
-# I’m looking to collaborate on ...
-
-Any react projects that involve using api's 
-<br/>
 
 # Technologies used in my projects:
 
@@ -40,4 +36,3 @@ Any react projects that involve using api's
 
 # Reach me at:
 ## Email: szymon.marczukk@gmail.com
-## Contact form:
