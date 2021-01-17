@@ -18,7 +18,7 @@ CODE: [https://github.com/Monsy99/monsy99.github.io/](https://github.com/Monsy99
 
 ### Chat App (React + Firebase):
 
-LIVE: /*currently under construction*/
+LIVE: [https://monsy99.github.io/react-firebase-chat-app/#/](https://monsy99.github.io/react-firebase-chat-app/#/)
 
 CODE: [https://github.com/Monsy99/react-firebase-chat-app](https://github.com/Monsy99/react-firebase-chat-app)
 
