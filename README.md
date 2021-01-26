@@ -1,6 +1,6 @@
 # Hi, my name is Szymon.
 
-### I'm a Polish 21 years old student of physics. Currently, I'm learning technologies associated with React. Have a look at what I do ;)
+### I'm a Polish 22 years old student of physics. Currently, I'm learning technologies associated with React. Have a look at what I do ;)
 
 # I’m currently working on ...
 
